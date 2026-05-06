@@ -1,4 +1,22 @@
-## Hi there 👋
+## Hi there 👋, I'm Luke Anderson
+
+---
+# About Me
+Currently a CSU Computer Science student with a concentration in Networks
+Studying for Network+ 
+
+Looking to collab on networking projects
+
+---
+# Socials
+
+
+
+---
+# Skills
+
+
+
 
 <!--
 **Ldanderson3/Ldanderson3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

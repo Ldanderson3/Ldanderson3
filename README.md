@@ -15,13 +15,18 @@ Looking to collab on networking projects
 ---
 # Skills
 ![Python](https://github.com/Ldanderson3/Ldanderson3/blob/main/images/python_logo_icon_168886.png "Python")
+<img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/python_logo_icon_168886.png" alt="Python" width="20" height="20">
 ![C++](https://github.com/Ldanderson3/Ldanderson3/blob/main/images/C%2B%2B-Logo.png "C++")
+<img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/C%2B%2B-Logo.png" alt="C++" width="20" height="20">
 ![Markdown](https://github.com/Ldanderson3/Ldanderson3/blob/main/images/Markdown-Logo.png "Markdown")
+<img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/Markdown-Logo.png" alt="Markdown" width="20" height="20">
 
 
 
 
 <!--
+
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230501155143/Git-Tutorial.webp" alt="Sample Image" width="400" height="300">
 **Ldanderson3/Ldanderson3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

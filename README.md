@@ -17,6 +17,7 @@ Looking to collab on networking projects
 <img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/python_logo_icon_168886.png" alt="Python" width="40" height="40"> Python
 
 <img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/C%2B%2B-Logo.png" alt="C++" width="40" height="40"> C++
+
 <img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/Markdown-Logo.png" alt="Markdown" width="40" height="40"> Markdown
 
 

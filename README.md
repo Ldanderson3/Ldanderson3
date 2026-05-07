@@ -9,7 +9,9 @@ Looking to collab on networking projects
 
 ---
 # Socials
-[![linkedin.com/in/luke-anderson-83a64434a](https://github.com/Ldanderson3/Ldanderson3/blob/main/images/LinkedIn-Logo.png)]{width=10px height=10px}(https://www.linkedin.com/in/luke-anderson-83a64434a/)
+<a href="https://www.linkedin.com/in/luke-anderson-83a64434a/">
+  <img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/LinkedIn-Logo.png" width="40" height="40">
+</a>
 
 ---
 # Skills

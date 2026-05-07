@@ -16,8 +16,8 @@ Looking to collab on networking projects
 # Socials
 <div align="center" style="display:flex; gap:20px; justify-content:center; align-items:center;">
 <a href="https://www.linkedin.com/in/luke-anderson-83a64434a/">
-  <img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/LinkedIn-Logo.png"></a><a href="https://leetcode.com/u/ldanderson3/">
-  <img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/LeetCode.png">
+  <img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/LinkedIn-Logo.png" width ="50%"></a><a href="https://leetcode.com/u/ldanderson3/">
+  <img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/LeetCode.png" width = "50%">
 </a>
 </div>
 

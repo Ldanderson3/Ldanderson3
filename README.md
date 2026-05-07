@@ -7,6 +7,10 @@ Studying for Network+
 
 Looking to collab on networking projects
 
+### What I focus on
+- Secure Networking Connections
+- Low Time Complexity Algorithms 
+
 ---
 # Socials
 <a href="https://www.linkedin.com/in/luke-anderson-83a64434a/">
@@ -15,16 +19,22 @@ Looking to collab on networking projects
 
 ---
 # Skills
-<img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/python_logo_icon_168886.png" alt="Python" width="30" height="30"> Python
 
-<img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/C%2B%2B-Logo.png" alt="C++" width="60" height="60"> C++
+### Languages
+<img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/python_logo_icon_168886.png" alt="Python" width="30" height="30">
+<img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/C%2B%2B-Logo.png" alt="C++" width="60" height="60">
+<img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/Markdown-Logo.png" alt="Markdown" width="50" height="50">
+<img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/HTML.png" alt="Markdown" width="50" height="50">
 
-<img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/Markdown-Logo.png" alt="Markdown" width="50" height="50"> Markdown
-
-<img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/HTML.png" alt="Markdown" width="50" height="50"> HTML CSS JS
-
+### Programs
+- WireShark
 
 
+### Dev Tools
+- VSCode
+- Pycharm
+- Git
+- Github
 
 <!--
 

@@ -21,6 +21,8 @@ Looking to collab on networking projects
 
 <img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/Markdown-Logo.png" alt="Markdown" width="50" height="50"> Markdown
 
+<img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/HTML-CSS-JS.png" alt="Markdown" width="50" height="50"> HTML CSS JS
+
 
 
 

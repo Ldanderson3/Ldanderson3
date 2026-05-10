@@ -3,8 +3,8 @@
 
 |Project Name | Description | Last Update | Link |
 |-------------|-------------|-------------|------|
-| Network Security Audit | Not Public Yet | 5/7/26 | Null |
-| Blog | Not Public Yet | 5/9/26 | Null |
+| Network Security Audit | Starting after getting homelab | 5/7/26 | Null |
+| Blog | Public, WIP | 5/10/26 | [Link](https://ldanderson3.github.io/) |
 
 
 

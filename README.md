@@ -41,8 +41,6 @@ Looking to collab on networking and security projects
 - Git
 - Github
 
-
-#### Updated on 5/7/26
 <!--
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230501155143/Git-Tutorial.webp" alt="Sample Image" width="400" height="300">

@@ -6,11 +6,11 @@ Currently a CSU Computer Science student with a concentration in Networks
 
 Studying for Network+, Security+, CCNA
 
-Looking to collab on networking and security projects
+Looking to collab on networking projects
 
 ### What I focus on
 - Full stack development
-- Secure, smooth customer experience
+- Secure, smooth user experience
 - Secure Networking Connections
 - Low Time Complexity Algorithms 
 
@@ -30,6 +30,7 @@ Looking to collab on networking and security projects
 <img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/python_logo_icon_168886.png" alt="Python" width="30" height="30"> <img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/C%2B%2B-Logo.png" alt="C++" width="60" height="60"> <img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/Markdown-Logo.png" alt="Markdown" width="50" height="50"> 
 
 <img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/HTML.png" alt="HTML CSS JS" width="150" height="50">
+<img src="https://github.com/Ldanderson3/Ldanderson3/blob/main/images/java.png" alt="Java" width="150" height ="50">
 
 ### Programs
 - WireShark
@@ -41,6 +42,8 @@ Looking to collab on networking and security projects
 - Git
 - Github
 
+
+#### Updated on 10/22/26
 <!--
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230501155143/Git-Tutorial.webp" alt="Sample Image" width="400" height="300">

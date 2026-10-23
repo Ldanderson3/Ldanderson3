@@ -4,11 +4,13 @@
 # About Me
 Currently a CSU Computer Science student with a concentration in Networks
 
-Studying for Network+ 
+Studying for Network+, Security+, CCNA
 
-Looking to collab on networking projects
+Looking to collab on networking and security projects
 
 ### What I focus on
+- Full stack development
+- Secure, smooth customer experience
 - Secure Networking Connections
 - Low Time Complexity Algorithms 
 
@@ -39,8 +41,6 @@ Looking to collab on networking projects
 - Git
 - Github
 
-
-#### Updated on 5/7/26
 <!--
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230501155143/Git-Tutorial.webp" alt="Sample Image" width="400" height="300">
